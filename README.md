@@ -38,9 +38,9 @@ In this section we are going to use a micro Compute Engine instance to run Corra
     *  *Mode* `Read/write`
     * Click *Done*
 * Click *Select*
-*
+
 ![Configure Container](images/ConfigureContainer.png)
-* Do NOT click ~~*Create*~~ but click *OS and Storage* in the menu on the left
+* Do NOT click ~~*Create*~~ but click *Networking* in the menu on the left
 
 ### Networking panel
 * Check *Allow HTTP traffic* (not *HTTPS*)
@@ -128,4 +128,4 @@ If you find yourself in need of encrypted access, you can look into setting up a
 
 * Paste the address in your browser like so: `http://PASTE_IP_ADDRESS:54377/`
 
-* ![Corrade Login Page](images/ExampleCorradeLogin.png)
+![Corrade Login Page](images/ExampleCorradeLogin.png)

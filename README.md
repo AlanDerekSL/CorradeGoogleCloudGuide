@@ -19,7 +19,7 @@ In this section we are going to use a micro Compute Engine instance to run Corra
 
 ### Machine Configuration panel
 * Set name, for example `corrade-allomancy`
-* Set *region* to `us-west1` (this is the closest zone to the Second Life servers which is also eligible for the Free Tier)
+* Set *region* to `us-west1`
 * Leave *machine series* at `E2`
 * The *Machine type* should be `e2-micro` (under the *Shared-core* group)
 * Do NOT click ~~*Create*~~ but click *OS and Storage* in the menu on the left

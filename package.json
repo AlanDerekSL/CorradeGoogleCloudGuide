@@ -1,0 +1,16 @@
+{
+  "name": "corradegooglecloudguide",
+  "version": "1.0.0",
+  "description": "Corrade Google Cloud Guide",
+  "main": "index.js",
+  "scripts": {
+    "build": "compiiile build",
+    "dev": "compiiile dev",
+    "preview": "compiiile preview"
+  },
+  "author": "AlanDerek.Astral",
+  "license": "ISC",
+  "dependencies": {
+    "@compiiile/compiiile": "^2.15.0"
+  }
+}
